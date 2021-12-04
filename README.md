@@ -1,10 +1,17 @@
 # WorryMindfulness
-Data and code for the Worry and Mindfulness project.
+This is the accompanying analysis code for the Worry and Mindfulness Project, PI Hallion. Please see our preregistration at https://osf.io/tsd74 for more information.
 
-This dataset includes limited imaging and additional data from the Worry and Mindfulness study at the University of Pittsburgh, PI Lauren S. Hallion. Included is anatomical data and functional data from the Worry & Mindfulness task. Other tasks and behavioral/clinical data are not included.
+All code and associated documents were written by Ceci Westbrook 2020-2021 unless otherwise noted.
 
  # Task description: # 
 Participants provided self-generated worry topics during an interview on a preceding session, which were converted to scanner stimuli. The fMRI task was completed on a subsequent visit, during which they were also instructed in worry disengagement strategies. The task comprised 2 runs of 6 trials each. For each trial, self-generated worry stimuli were presented for 35s, followed by a 35s disengagement period in which participants were instructed to disengage from worry using one of 2 mindfulness strategies (focused acceptance, acceptance) or a control strategy (suppression). Following disengagement, participants responded to thought probes indicating whether they were successful at worry disengagement.
+
+ # How to use this repository: # 
+This dataset was analyzed primarily using FSL's Feat program, which takes design files (.fsf) as input. These files can be batch-edited and submitted, which was the approach used here, following Jeanette Mumford's approach (please see: https://www.youtube.com/playlist?list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3). The order of use for these scripts are:
+ 1) Preprocessing using the 0_preprocess script in this directory
+ 2) level 1 analyses conducted by batch-editing the template .fsf scripts found in the level1/ directory
+ 3) the same process for level 2 analyses; and finally
+ 4) group-level analyses utilizing the template scripts in the group_level directory
 
  # Data included: # 
 All imaging data was collected on a 3T MRI scanner (MAGNETOM Verio syngo MR B17, 		Siemens Corporation) with a 32-channel radio-frequency (RF) head coil array.
