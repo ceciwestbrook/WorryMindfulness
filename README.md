@@ -48,4 +48,4 @@ Cecilia A. Westbrook1, Janine Dutcher2, Susan Kusmierski3, J. David Creswell2, E
 3Department of Psychology, University of Pittsburgh
 
  # Status of current dataset: # 
-Data are currently under submission at Clinical Psychological Science. Publication information will be forthcoming as it becomes available.
+Data are currently under submission at the Journal of Psychopathology and Clinical Science. Publication information will be forthcoming as it becomes available.
