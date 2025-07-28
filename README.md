@@ -48,4 +48,4 @@ Cecilia A. Westbrook1, Janine Dutcher2, Susan Kusmierski3, J. David Creswell2, E
 3Department of Psychology, University of Pittsburgh
 
  # Status of current dataset: # 
-Data are currently under submission at the Journal of Psychopathology and Clinical Science. Publication information will be forthcoming as it becomes available.
+These data were published in the Journal of Psychopathology and Clinical Science. Citation: Westbrook, C. A., Dutcher, J., Kusmierski, S., Creswell, J. D., Akpan, E., & Hallion, L. S. (2023). Neural correlates of mindful disengagement from worry. Journal of psychopathology and clinical science, 132(1), 38.
